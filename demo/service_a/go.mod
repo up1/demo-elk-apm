@@ -7,6 +7,7 @@ require (
 	github.com/sirupsen/logrus v1.9.3
 	go.elastic.co/apm v1.15.0
 	go.elastic.co/apm/module/apmgin v1.15.0
+	go.elastic.co/apm/module/apmhttp v1.15.0
 	go.elastic.co/apm/module/apmlogrus v1.15.0
 	go.elastic.co/ecslogrus v1.0.0
 )
@@ -39,7 +40,6 @@ require (
 	github.com/santhosh-tekuri/jsonschema v1.2.4 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.2.11 // indirect
-	go.elastic.co/apm/module/apmhttp v1.15.0 // indirect
 	go.elastic.co/fastjson v1.1.0 // indirect
 	golang.org/x/arch v0.3.0 // indirect
 	golang.org/x/crypto v0.9.0 // indirect
